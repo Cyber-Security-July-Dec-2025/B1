@@ -61,10 +61,8 @@ A web-based system to store files in a **confidential** and **integrity-protecte
 ## Tech Stack
 
 * **Frontend**: React, Web Crypto API (recommended) for all browser cryptography.
-* **Backend**: Node.js or Next.js (API endpoints to store/retrieve encrypted blobs).
-* **Crypto (server-side)**: Node's `crypto` module, or OpenSSL for any server-side utilities.
+* **Backend**: Node.js(API endpoints to store/retrieve encrypted blobs).
 
-Recommended developers tools: `npm`, `yarn`, `TypeScript` (optional but recommended), `ESLint`, `Prettier`.
 
 ---
 
@@ -85,7 +83,6 @@ Recommended developers tools: `npm`, `yarn`, `TypeScript` (optional but recommen
 
 ## Setup & Development
 
-> These are example steps for a typical React frontend + Node.js backend. Adjust as needed for your repo structure.
 
 ### Prerequisites
 
