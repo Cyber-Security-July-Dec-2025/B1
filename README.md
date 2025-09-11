@@ -163,11 +163,3 @@ npm run start
 * For sharing files between users, encrypt the AES key separately with each recipient's public key so multiple recipients can decrypt.
 
 ---
-
-## License
-
-This project is released under the MIT License. Feel free to adapt for your course/project.
-
----
-
-> *This README was generated from the supplied problem statement and encryption/decryption flow.*
